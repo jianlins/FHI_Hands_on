@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # demonstrate how to automatically pull posts from Canvas discussion board and create a word cloud
 
 # the path of your downloaded chromedrive from https://sites.google.com/a/chromium.org/chromedriver/downloads
-chromedriverPath = '/uufs/chpc.utah.edu/common/home/u0876964/local/software/browser_drivers/chromedriver'
+chromedriverPath = '/software/browser_drivers/chromedriver'
 
 # url of the discussion board
 url = 'https://utah.instructure.com/courses/459611/discussion_topics/2070560'
