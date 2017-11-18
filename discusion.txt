@@ -1,0 +1,115 @@
+The module discussion is intended to help synthesize material from the module. To contribute to this discussion, you can:
+Share interesting, course or module relevant information
+Ask a question about the course/module material
+Respond to questions or to shared information
+Comment on or expound on another student's posting
+Your discussion can be by written, audio/video, or other methods. We are looking for engagement and participation here - there is not a specific "right or wrong way" to participate.The module discussion is intended to help synthesize material from the module. To contribute to this discussion, you can:
+Share interesting, course or module relevant information
+Ask a question about the course/module material
+Respond to questions or to shared information
+Comment on or expound on another student's posting
+Your discussion can be by written, audio/video, or other methods. We are looking for engagement and participation here - there is not a specific "right or wrong way" to participate.Definition of Biomedical Informatics
+The AMIA definition
+ (Links to an external site.)
+is:
+Biomedical informatics (BMI) is the interdisciplinary field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem solving and decision making, motivated by efforts to improve human health
+But, if a friend asked me I would say:
+BMI is concerned with the application of communications and information technology to improve healthcare.  Hi Bob,
+I like that you added what you would say if a friend asked you about it because I find myself explaining what I'm studying to people almost every day. I usually try to keep it simple and say it's using computer science and data processing to improve healthcare.I like that definition and the corollaries to the definition that AMIA provides. Definition of informatics from Merriam-Webster is: the collection, classification, storage, retrieval, and dissemination of recorded knowledge. From dictionary.com: the study of information processing; computer science.Wikipedia defines Biomedical informatics as informatics in health care. This is multidisciplinary field that uses health information technology to improve health care via any combination of higher quality, higher efficiency (spurring lower cost and thus greater availability), and new opportunities.  Hi, Sarah. Wikipedia always a good source to start looking up for a definition!Definition of Biomedical Informatics
+According to the U.S. National Library of Medicine
+ (Links to an external site.)
+The field of information science concerned with the analysis, use and dissemination of medical data and information through the application of computers to various aspects of health care and medicine.From the  Classification of Instructional Programs (CIP), informatics:
+"...focuses on computer systems from a user-centered perspective and studies the structure, behavior and interactions of natural and artificial systems that store, process and communicate information. Includes instruction in information sciences, human computer interaction, information system analysis and design, telecommunications structure and information architecture and management."
+https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=55&cipid=89325
+ (Links to an external site.)
+ An interesting opinion by Richard Dawkins, an evolutionary biologist:
+"What lies at the heart of every living thing is not a fire, not warm breath, not a 'spark of life.' It is information, words, instructions... If you want to understand life, don't think about vibrant, throbbing gels and oozes, think about information technology."
+along with some insight attributed to Carly Fiorina:
+“The goal is to turn data into information, and information into insight.”That is a really interesting definition. It definitely will enrich the word cloud.“The goal is to turn data into information, and information into insight.”
+This is really interesting. Especially when you consider the definition of insight.
+Insight: an instance of apprehending the true nature of a thing, especially through intuitive understanding.
+(Dictionary.com)It's fun to look at insight from outside of our own field. I like information into insight.Informatics according to most healthcare providers (I asked my provider I'm shadowing for work):
+
+"The process of integrating various technologies within the healthcare field in order to properly address information in an effective and timely manner""[T]he discipline of science which investigates the structures and properties (not specific content) of scientific information[.]"
+Morris F. Collen; Marion J. Ball (8 October 2015), The History of Medical Informatics in the United States
+, Springer, p. 77, ISBN
+ (Links to an external site.)
+ 978-1-4471-6732-7
+ (Links to an external site.)I like this short and sweet definition from the University of Indiana's website:
+Informatics is computing in context.
+Simple, right?  lol.Patrice,
+Yup, short and sweet definition for sure, however, that one short sentence encompasses more information than its length. :)That is great!Health informatics is the study of resources and methods for the management of health information.
+This area of study supports health information technology
+ (Links to an external site.)
+, medical practice, medical research and medical informatics. To that end, health informatics involves systems such as electronic health records
+ (Links to an external site.)
+ (EHR) and electronic medical records
+ (Links to an external site.)
+ (EMR), health information exchange
+ (Links to an external site.)
+ standards such as Health Level 7
+ (Links to an external site.)
+ (HL7), medical terminologies such as Systematized Nomenclature of Medicine, clinical terms such as SNOMED-CT
+ (Links to an external site.)
+(SNOMED CT), and portable medical devices for the collection of health data.
+http://searchhealthit.techtarget.com/definition/health-informatics
+ (Links to an external site.)
+ Jorge, 
+That's a great hand drawing flow chart!
+I do have a question about your chart: what does "NORG" stand for?According to Merriam Webster dictionary, Informatics is the collection, classification, storage, retrieval, and dissemination of recorded knowledge.  This definition of informatics transforms with the various field where it is applied.
+According to Indiana University, Informatics is computing in context, which could turn data and information into knowledge.
+U.S. National Library of Medicine defines health informatics is the interdisciplinary study of the design, development, adoption, and application of IT-based innovations in healthcare services delivery, management, and planning.As defined by the U.S. National Library of Medicine, health informatics is the interdisciplinary study of the design, development, adoption, and application of IT-based innovations in healthcare services delivery, management, and planning.From what I understand, informatics can be defined as processing of information, it can be either collecting, storing, solving ...
+Informatics can be combined with other disciplines such as technology, medical, healthcare... and its definition is extended to those disciplines.  For example: definition of health informatics by NIH:
+Health Informatics is "the interdisciplinary study of the design, development, adoption and application of IT-based innovations in healthcare services delivery, management and planning."
+https://www.nlm.nih.gov/hsrinfo/informatics.html
+ (Links to an external site.)Here is another short one:
+Biomedical informatics is the science of information as applied to or studied in the context of biomedicine.
+  J Biomed Inform. 2010 Feb; 43(1): 104.
+ (Links to an external site.)
+ The most general definition of informatics I could find was from the Oxford dictionary, which calls it "The science of processing data for storage and retrieval." Biomedical informatics is then the application of informatics specifically to biomedicine or its related fields. I thought the more general definition would contrast well to the more specific definitions of biomedical informatics offered by AMIA or the NLM.I find the definition of Informatics on Wikipedia. "Informatics is a branch of information engineering. It involves the practice of information processing and the engineering of information systems, and as an academic field it is an applied form of information science. The field considers the interaction between humans and information alongside the construction of interfaces, organisations, technologies and systems." Hi Siru,
+I really like that definition too. Particularly the line about "the interaction between humans and information alongside the construction of interfaces, organisations, technologies and systems." 
+ I liked this one:
+Informatics is the study of the behavior and structure of any system that generates, stores, processes and then presents information; it is basically the science of information. The field takes into consideration the interaction between the information systems and the user, as well as the construction of the interfaces between the two, such as the user interface.
+https://www.techopedia.com/definition/30332/informaticsHi Dylan,
+I like that definition, especially how it encompasses the relationship between the user and the systems involved. Great find!Informatics: information science, or information engineering.According to the German "Duden"
+ (Links to an external site.)
+ informatics can be defined as follow:
+"Informatics is the science of the systematic representation, storage, processing and transmission of information, especially the automatic processing by means of digital computers"According to the paper ‘What is biomedical informatics’ from Elmer V. Bernstam:
+Biomedical informatics is the application of the science of information as data plus meaning to problems of biomedical interest. This definition is sufficiently broad to include the majority of activities currently considered to fall within the scope of biomedical informatics while excluding activities that are traditionally considered to be outside of our field. I really liked this one:
+Informatics is the science of processing data for storage and retrieval
+I feel like it should also include something about processing data for storage, retrieval and understanding.I found a nice concise definition from the Morsani College of Medicine (University of South Florida Health) website.
+Link: https://www.usfhealthonline.com/resources/key-concepts/informatics-defined/
+Definition: "At its core, informatics is the science of information and all its aspects – storage, how it’s processed, communicated and used."Hi Everyone,
+The definition I chose comes from The Indiana University School of Informatics and Computing, it defines informatics as:  
+"the study and application of information technology to the arts, science and professions, and to its use in organizations and society at large.” 
+I like this definition because it shows the various fields and disciplines that informatics can affect. 
+Source:
+https://soic.iupui.edu/about/what-is-informatics/Hi, Erik. I saw this one and thought it is a general and well organized definition for the word 'informatics' too.  Health informatics can be defined in two different ways:
+A scientific discipline that is concerned with the cognitive, information-processing, and communication tasks of healthcare practice, education, and research, including the information science and technology to support these tasks
+A field of information science concerned with the management of all aspects of health data and information through the application of computers and computer technology
+  http://bok.ahima.org/doc?oid=107443#.WgzYu2iPKCg
+ (Links to an external site.)
+  I like this definition because it breaks out [health] informatics as both a scientific discipline and a field of IS.  Interestingly, I find that autocorrect/spellcheck always think that informatics is not a word. My definition:
+HEALTH INFORMATICS - The fields of clinical informatics and public health informatics, including both applied research and practice.Informatics according to dictionary.com:
+The science of processing data for storage and retrieval; information science.
+  Health Informatics:
+As defined by the U.S. National Library of Medicine, health informatics is the interdisciplinary study of the design, development, adoption, and application of IT-based innovations in healthcare services delivery, management, and planning.I like the various definitions that have been posted in this discussion. When someone asks me what biomedical informatics is, I usually say it is the combination of health care and IT, but that is probably a far too narrow definition. I liked this definition from Greenes and Shortliffe: "Medical informatics is the field that concerns itself with the cognitive, information processing, and communication tasks of medical practice, education, and research, including the information science and the technology to support these tasks."
+Greenes RA, Shortliffe EH. Medical informatics. An emerging academic discipline and institutional priority. JAMA. 1990;263(8):1114–20. [PubMed
+ (Links to an external site.)
+]
+Of course, the above definition is for medical informatics and not the more general term informatics, but since we are in a biomedical informatics program, it still seems appropriate. I think the themes of the the definitions will stay the same: Information, technology, problem solving, data, innovation, etc. Depending on which branch of informatics is being defined, more specific definitions can be described.I found a definition of informatics from the University of Washington, Information School
+Definition: The term “informatics” broadly describes the study and practice of creating, storing, finding, manipulating and sharing information.
+Link: https://ischool.uw.edu/programs/informatics/what-is-informatics
+ (Links to an external site.)
+ sweet! :)One definition that I like for Biomedical Informatics is:
+it is a field of study that develops, studies, and applies theories, methods, and processes for the generation, storage, retrieval, use, management, and sharing of biomedical data, information, and knowledge.
+This was taken from:
+Shortliffe, E. H., & Cimino, J. J. (Eds.). (2013). Biomedical informatics: computer applications in health care and biomedicine. Springer Science & Business Media.
+A rather dry definition, but it encapsulates a lot.I love Cimino's articles! and he also is the father of Infobutton! 
+ Since the we are defining informatics and not biomedical informatics, I generalized to:
+Informatics is the discipline of applying instructions to a computer through a programming language to process large volumes of information for a specified outcome which would not be possible without the computer.Short and sweet from Merriam-Webster.
+Informatics: the collection, classification, storage, retrieval, and dissemination of recorded knowledge
+ I found one even shorter: information science :)Informatics: information science (Cambridge dictionary)
+In terms of Biomedical Informatics, I really like the definition that AMIA provides: 
+Biomedical informatics (BMI) is the interdisciplinary field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem solving and decision making, motivated by efforts to improve human health.
+   
