@@ -1,5 +1,10 @@
 # Foundamental Health Informatics (2017 Fall) Module 7 Hands on project
-This project demonstrate how to use pyConText to identify the patients with family history of breast cancer and colon cancer.
+This project demonstrate how to use pyConText to identify the patients with family history of breast cancer and colon cancer, with very nice real time visualization adopted from Brat's design [2]. For example，
+
+![pycontext visual](/img/snapshot3.png)
+
+
+
 Use the following bash commnad in terminal to clone the notebooks into your local directory.
 ```bash
 git clone https://github.com/jianlins/FHI_Hands_on.git
