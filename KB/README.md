@@ -1,4 +1,4 @@
-Collecting of supplied Knowledge Base files. For exercising purpose, these target and modifier rules are not complete and include a few errors, which we expecting you could fix during the hands on sessions.
+Collecting of supplied Knowledge Base files. For exercising purpose, these target and modifier rules are **not complete and include a few errors**, which we expecting you could fix during the hands on sessions.
 
 This includes:
 * Target Rules
