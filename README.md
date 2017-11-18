@@ -11,7 +11,7 @@ Then execute the following commands:
 ![remote terminal](/img/snapshot12.png)
 
 
-The dataset for this project is sampled from []MIMIC demo dataset](https://physionet.org/mimic2/demo/) [1].  
+The dataset for this project is sampled from [MIMIC demo dataset](https://physionet.org/mimic2/demo/) [1].  
 The visualization tool used in this project is derived from [arne-cl's project](https://github.com/arne-cl/brat-embedded-visualization-examples/tree/master/js), which is made out of [Brat](http://http://brat.nlplab.org)[2].  
 
 ## References:
