@@ -5,3 +5,6 @@ This includes:
 * Modifiers Rules
 * Feature inference rules
 * Document inference rules
+
+'bc' stands for 'breast cancer'  
+'cc' stands for 'colon cancer'
