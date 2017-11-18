@@ -1,6 +1,7 @@
 # Foundamental Health Informatics (2017 Fall) Module 7 Hands on project
 This project demonstrate how to use pyConText to identify the patients with family history of breast cancer and colon cancer.
-Use the following bash commnad in terminal to clone the notebooks into your local directory. If you are using jupyterhub, you will need to open the remote 'terminal' through the jupyter's web interface.
+Use the following bash commnad in terminal to clone the notebooks into your local directory.
+If you are using jupyterhub, you will need to open the remote 'terminal' through the jupyter's web interface. ![remote terminal](/img/snapshot11.png)
 ```bash
 git clone https://github.com/jianlins/FHI_Hands_on.git
 ```
