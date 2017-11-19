@@ -1,5 +1,5 @@
 # Foundations of Healthcare Informatics (2017 Fall) Module 7 Hands on project
-This project demonstrates how to use pyConText to identify the patients with family history of breast cancer and colon cancer, with the nice real time visualization adopted from Brat's design [2]. For example，
+This project demonstrates how to use pyConText to identify the patients with family history of breast cancer and/or colon cancer, with the nice real time visualization adopted from the Brat's design [2]. For example，
 
 ![pycontext visual](/img/snapshot3.png)
 
