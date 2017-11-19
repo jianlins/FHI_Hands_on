@@ -21,7 +21,7 @@ The visualization tool used in this project is derived from [arne-cl's project](
 
 ## References:
 1. MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available at: http://www.nature.com/articles/sdata201635
-2. BRAT:AWeb-basedToolforNLP-AssistedTextAnnotation. PontusStenetorp, SampoPyysalo, GoranTopic, TomokoOhta, Sophia Ananiadou, and Jun’ichi Tsujii. In Proceedings of the European Chapter of the Association for Computational Linguistics (2012), pages 102–107
+2. BRAT:A Web-based Tool for NLP-Assisted Text Annotation. PontusStenetorp, SampoPyysalo, GoranTopic, TomokoOhta, Sophia Ananiadou, and Jun’ichi Tsujii. In Proceedings of the European Chapter of the Association for Computational Linguistics (2012), pages 102–107
   
   
     
