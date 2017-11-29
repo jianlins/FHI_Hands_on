@@ -9,7 +9,7 @@ Use the following bash commnad in terminal to clone the notebooks into your loca
 ```bash
 git clone https://github.com/jianlins/FHI_Hands_on.git
 ```
-If you are using [jupyterhub.med.utah.edu](jupyterhub.med.utah.edu), you will need to open the remote 'terminal' through the jupyter's web interface.   
+If you are using [jupyterhub.med.utah.edu](http://jupyterhub.med.utah.edu), you will need to open the remote 'terminal' through the jupyter's web interface.   
 ![remote terminal](/img/snapshot11.png)
 
 Then execute the following commands:  
